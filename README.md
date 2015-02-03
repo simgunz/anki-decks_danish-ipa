@@ -57,7 +57,7 @@ Simone Gaiarin (simgunz@gmail.com)
 License
 =======
 
-This deck is released under the [GPLv3 license](www.gnu.org/copyleft/gpl.html).
+This deck is released under the [CreativeCommon BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 References
 ==========
