@@ -20,6 +20,7 @@ hosted on fluent-forever.com and to read the following Wikipedia articles (at le
 * [Manner of articulation](http://en.wikipedia.org/wiki/Manner_of_articulation)
 * [Voice](http://en.wikipedia.org/wiki/Voice_(phonetics))
 
+The cards tagged 'allophone' may be suspended in a first moment since they can considered an advanced topic.
 
 Building the deck
 =================
