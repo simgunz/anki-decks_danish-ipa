@@ -22,6 +22,10 @@ hosted on fluent-forever.com and to read the following Wikipedia articles (at le
 
 The cards tagged 'allophone' may be suspended in a first moment since they can considered an advanced topic.
 
+The term between parenthesis () specifies better the articulatory feature.
+
+The term between brackets [] is a common alternative name of the articulatory feature.
+
 Building the deck
 =================
 
