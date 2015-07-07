@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
    version="1.0"
-   sodipodi:docname="danish_monophthongs_o_open.svg"
+   sodipodi:docname="danish_monophthongs_chart_ø.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="D:\vowel trapeziums\Danish\Danish monophthongs chart.png"
    inkscape:export-xdpi="90"
@@ -681,6 +681,6 @@
        sodipodi:rx="50"
        sodipodi:ry="50"
        d="m 120.86232,80.911339 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
-       transform="matrix(1.3,0,0,1.3,744.53803,407.53293)" />
+       transform="matrix(1.3,0,0,1.3,301.14437,248.06679)" />
   </g>
 </svg>
