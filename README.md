@@ -2,7 +2,7 @@ Danish IPA Deck
 ===============
 
 This anki deck is based on the language learning method presented by Gabriel Wyner on fluent-forever.com and
-aims to teach you all the International Phonetic Alphabet (IPA) symbols of the Italian language. Differently
+aims to teach you all the International Phonetic Alphabet (IPA) symbols of the Danish language. Differently
 from the [English IPA deck](https://fluent-forever.com/ipa-anki-deck/) provided by Gabriel Wyner this one doesn't
 contains the phonetic articulations cards and contains all the allophones of a single phoneme. Because of this
 it's important you know the difference between _phone_ and _phoneme_.
