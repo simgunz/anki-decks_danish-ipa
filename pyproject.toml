@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "danish_ipa"
+version = "1.0.0"
+description = "Anki deck with IPA symbols for phonemes and phones of the Danish language"
+authors = ["Simone Gaiarin <simgunz@gmail.com>"]
+license = "CC BY-NC-SA"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Brain-Brew = "^0.3.6"
+bump2version = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
