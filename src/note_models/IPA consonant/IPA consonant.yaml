@@ -1,6 +1,6 @@
-name: IPA vowel-05510
-id: 0c2538ee-d777-11ed-9085-74e5f984f594
-css_file: src/note_models/IPA vowel-05510/style.css
+name: IPA consonant
+id: 0c2524ee-d777-11ed-9085-74e5f984f594
+css_file: src/note_models/IPA consonant/style.css
 sort_field_num: 1
 fields:
 - name: Note ID
@@ -9,11 +9,11 @@ fields:
   font: Arial
 - name: IPA phone strict transcription
 - name: IPA phoneme symbol
-- name: Openess
+- name: Phonation
   font_size: 12
-- name: Backness
+- name: Place of articulation
   font_size: 12
-- name: Roundedness
+- name: Manner of articulation
   font_size: 12
 - name: Examples
   font_size: 12
@@ -25,13 +25,11 @@ fields:
   font_size: 12
 - name: Example sounds
   font_size: 12
-- name: IPA vowels chart
-  font: Arial
 templates:
 - name: Forward
-  html_file: src/note_models/IPA vowel-05510/Forward.html
+  html_file: src/note_models/IPA consonant/Forward.html
 - name: Reverse
-  html_file: src/note_models/IPA vowel-05510/Reverse.html
+  html_file: src/note_models/IPA consonant/Reverse.html
 required_fields_per_template:
 - - 0
   - any

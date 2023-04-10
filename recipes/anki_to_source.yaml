@@ -20,11 +20,11 @@
 - generate_csvs:
     notes: deck_notes
     file_mappings:
-    - file: src/data/IPA consonant-0d600.csv
-      note_model: IPA consonant-0d600
-    - file: src/data/IPA vowel-05510.csv
-      note_model: IPA vowel-05510
+    - file: src/data/IPA consonant.csv
+      note_model: IPA consonant
+    - file: src/data/IPA vowel.csv
+      note_model: IPA vowel
     note_model_mappings:
     - note_models:
-      - IPA consonant-0d600
-      - IPA vowel-05510
+      - IPA consonant
+      - IPA vowel
