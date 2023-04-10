@@ -1,0 +1,41 @@
+name: IPA consonant-0d600
+id: 0c2524ee-d777-11ed-9085-74e5f984f594
+css_file: src/note_models/IPA consonant-0d600/style.css
+sort_field_num: 1
+fields:
+- name: Note ID
+  font_size: 10
+- name: IPA phone
+  font: Arial
+- name: IPA phone strict transcription
+- name: IPA phoneme symbol
+- name: Phonation
+  font_size: 12
+- name: Place of articulation
+  font_size: 12
+- name: Manner of articulation
+  font_size: 12
+- name: Examples
+  font_size: 12
+- name: Classification
+  font_size: 12
+- name: Notes
+  font_size: 12
+- name: Pronunciation sound
+  font_size: 12
+- name: Example sounds
+  font_size: 12
+templates:
+- name: Forward
+  html_file: src/note_models/IPA consonant-0d600/Forward.html
+- name: Reverse
+  html_file: src/note_models/IPA consonant-0d600/Reverse.html
+required_fields_per_template:
+- - 0
+  - any
+  - - 1
+    - 2
+    - 3
+- - 1
+  - all
+  - - 10

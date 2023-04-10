@@ -29,30 +29,26 @@ The term between brackets [] is a common alternative name of the articulatory fe
 Building the deck
 =================
 
-The deck can be quickly built by executing the script:
+Configure and activate the virtual environment
 
-    build-deck.sh
+```bash
+poetry install
+poetry shell
+```
 
-This script creates the SQLite3 binary database from the database dump and compresses all the files (a part from
-the database dump) in a zip archive with extension '.apkg' that can be directly imported into anki.
+Build the anki deck
 
-Under Windows the script can't be used, but the previous two operations can be easily done manually.
+```bash
+ brainbrew run recipes/source_to_anki.yaml
+```
 
-Version control
-===============
+The output is generated in the build directory that can be imported as a deck into anki using the add-on [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
 
-This deck is managed by git to keep track of all the changes. To update the deck in git you should proceed as follows:
+After editing the deck in anki it is possibile to export it in the `build` directory and then
 
-* Export the deck from anki without including the scheduling information
-* Extract the .apkg file into the _deck_ folder (under the git root directory)
-* Execute the script
-
-    update-dump.sh
-
-The last operation dumps the SQLite3 binary database (collection.anki2) to a text file and remove the binary one,
-in order to make it easier to manage the database with git.
-
-Under Windows the script can't be used, but the previous operation can be easily done manually.
+```bash
+ brainbrew run recipes/anki_to_source.yaml
+```
 
 Author
 ======
