@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "danish_ipa"
-version = "2.1.0"
+version = "2.2.0"
 description = "Anki deck with IPA symbols for phonemes and phones of the Danish language"
 authors = ["Simone Gaiarin <simgunz@gmail.com>"]
 license = "CC BY-NC-SA"
